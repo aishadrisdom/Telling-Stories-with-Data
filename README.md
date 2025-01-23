@@ -4,15 +4,16 @@
 This is my public portfolio for Telling Stories with Data at CMU! This is where I will post information of assignments and my final project for this course. Showing my understanding and knowledge of data visualizations. 
 
 # About me
-Hi! I am Aisha Drisdom, I am studying at Carnegie Mellon. I am interested in learning about variety topics that will assist me to become a *data analyst* or any career that involves the use of data. So, I'm interested in knowing more about the importance of telling stories with data visualizations.
+Hi! I am Aisha Drisdom, I am an undergrad studying at Carnegie Mellon. I am interested in learning about variety topics that will assist me to become a *data analyst* or any career that involves the use of data. So, I'm interested in knowing more about the importance of telling stories with data visualizations. I am also intertesed in using data to fight issues like social justice and climate change.
 
 
 # What I hope to learn
 I want to expand my knowledge in data visualizations by creating, and critiquing. This platform will allow me to demonstrate that by showcasing projects and assignments. Some goals I want to accomplish are
 
-- more Tableau skills
-- additonal websites that can produce data visualizations
-- other additonal technical skills like coding
+- improving more Tableau skills
+- learning about more additional websites that can produce data visualizations
+- other additonial technical skills like coding that are criitcal for producing data visualizations
+- ability to critique variety of data visualizations
 
 # Portfolio
 
